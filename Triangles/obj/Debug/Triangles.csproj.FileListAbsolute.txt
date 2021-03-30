@@ -1,0 +1,10 @@
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\bin\Debug\Triangles.exe.config
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\bin\Debug\Triangles.exe
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\bin\Debug\Triangles.pdb
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.csprojAssemblyReference.cache
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.Form1.resources
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.Properties.Resources.resources
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.csproj.GenerateResource.cache
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.exe
+C:\Users\Bharat Topinkatti\source\repos\Triangles\Triangles\obj\Debug\Triangles.pdb
